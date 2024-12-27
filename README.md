@@ -1,14 +1,9 @@
-<img src="Banner.png">
+![Banner](Banner.png)
 
-
-
-<h2 style="text-align: center;">👋🏼 Hola , Soy Alejandro Carrillo</h2>
-
+# 👋🏼 Hola , Soy Alejandro Carrillo
 Estudiante de programación de software (SENA), actualmente me encuentro culminando la etapa lectiva de mis estudios (Materias) y estoy en búsqueda de mi primer trabajo como Programador Front-end para presentar las practica del SENA, tengo conocimientos en HTML, CSS, JavaScript, React, MySQL, Git y Java.
 Poseo facilidad para trabajo en equipo, buena comunicación y creatividad.
-
-
-<h2 style="text-align: left;">Tecnologias 🧑🏻‍💻</h2>
+## Tecnologias 🧑🏻‍💻
  <p align="left">
      <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
@@ -27,7 +22,7 @@ Poseo facilidad para trabajo en equipo, buena comunicación y creatividad.
       width="36" height="36" alt="MySQL" />
   </p>
 
-<h4 style="text-align: left;">Aprendiendo Actualmente 💻</h4>
+#### Aprendiendo Actualmente 💻
  <p align="left">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
@@ -39,12 +34,13 @@ Poseo facilidad para trabajo en equipo, buena comunicación y creatividad.
       width="36" height="36" alt="Git" />
   </p>
 
-<h2 style="text-align: left;">Redes Sociales 🔗</h2>
+## Redes Sociales 🔗
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-carrillo-b1251027b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejandro.carrillo0/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alejandro.carrillo0/)
 
+## Estadisticas 📈
 ![Alejandro-Carrillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Carrillo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Carrillo&layout=compact&theme=dark)
