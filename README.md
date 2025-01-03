@@ -2,6 +2,7 @@
 
 # 👋🏼 Hola , Soy Alejandro Carrillo
 Estudiante de programación de software (SENA), actualmente me encuentro culminando la etapa lectiva de mis estudios (Materias).
+
 HTML, CSS, JavaScript, React, MySQL, Git y Java.
 
 ## Tecnologias 🧑🏻‍💻
