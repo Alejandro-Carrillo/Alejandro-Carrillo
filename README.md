@@ -45,4 +45,6 @@ Poseo facilidad para trabajo en equipo, buena comunicación y creatividad.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Carrillo&layout=compact&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Carrillo&layout=compact&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Carrillo&langs_count=8&theme=dark)
