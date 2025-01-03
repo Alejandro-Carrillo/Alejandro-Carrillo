@@ -1,8 +1,9 @@
 ![Banner](Banner.png)
 
 # 👋🏼 Hola , Soy Alejandro Carrillo
-Estudiante de programación de software (SENA), actualmente me encuentro culminando la etapa lectiva de mis estudios (Materias) y estoy en búsqueda de mi primer trabajo como Programador Front-end para presentar las practica del SENA, tengo conocimientos en HTML, CSS, JavaScript, React, MySQL, Git y Java.
-Poseo facilidad para trabajo en equipo, buena comunicación y creatividad.
+Estudiante de programación de software (SENA), actualmente me encuentro culminando la etapa lectiva de mis estudios (Materias).
+HTML, CSS, JavaScript, React, MySQL, Git y Java.
+
 ## Tecnologias 🧑🏻‍💻
  <p align="left">
      <img
