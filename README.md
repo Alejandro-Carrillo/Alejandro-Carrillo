@@ -1,7 +1,7 @@
 ![Banner](Banner.png)
 
 # 👋🏼 Hola , Soy Alejandro Carrillo
-Estudiante de programación de software (SENA), actualmente me encuentro culminando la etapa lectiva de mis estudios (Materias).
+Estudiante de programación de software (SENA)
 
 
 ## Tecnologias 🧑🏻‍💻
