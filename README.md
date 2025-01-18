@@ -1,7 +1,9 @@
 ![Banner](Banner.png)
 
 # 👋🏼 Hola , Soy Alejandro Carrillo
-Estudiante de programación de software (SENA)
+Desarrollador web. Con una sólida formación en Programación de Software (SENA), he desarrollado habilidades en Programación Front-end con enfoque en la calidad, la usabilidad y escalabilidad.
+                    
+He creado este portafolio para compartir mi trabajo contigo y así explorar oportunidades para colaborar en nuevos proyectos, aquí podrás encontrar algunos de mis ejercicios más destacados, que demuestran mi capacidad en el manejo de React, JavaScript, MySQL, CSS, HTML, entre otros.
 
 
 ## Tecnologias 🧑🏻‍💻
