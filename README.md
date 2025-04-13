@@ -26,16 +26,11 @@ He creado este portafolio para compartir mi trabajo contigo y así explorar opor
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
       width="36" height="36" alt="VS Code" />
-    
-  </p>
-
-#### Aprendiendo Actualmente 💻
- <p align="left">   
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
       width="36" height="36" alt="Java" />    
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-      width="36" height="36" alt="Git" />
+      width="36" height="36" alt="Git" />    
   </p>
 
 ## Redes Sociales 🔗
