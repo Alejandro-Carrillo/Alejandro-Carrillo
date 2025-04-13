@@ -30,7 +30,8 @@ He creado este portafolio para compartir mi trabajo contigo y así explorar opor
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
       width="36" height="36" alt="Java" />    
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-      width="36" height="36" alt="Git" />    
+      width="36" height="36" alt="Git" />
+   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   </p>
 
 ## Redes Sociales 🔗
