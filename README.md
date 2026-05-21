@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](Banner.png)
+<br/>
 
 <!-- Typing SVG animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋🏼+Hola%2C+soy+Alejandro+Carrillo;Desarrollador+de+Software;Apasionado+por+React+%26+JavaScript;Siempre+aprendiendo+algo+nuevo+🚀)](https://git.io/typing-svg)
@@ -17,6 +17,21 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 - 🌱 Aprendiendo cada día más sobre **JavaScript avanzado** y **buenas prácticas**
 - 💼 **Disponible para trabajar** — ¡Contáctame!
 - 📍 Colombia 🇨🇴
+
+---
+
+## 💼 Experiencia Laboral
+
+### 👨‍💻 Desarrollador Front-end | *Cinndev S.A.S.*
+📅 *Junio 2024 – Octubre 2025*
+- Desarrollo y mantenimiento de interfaces de usuario (UI) responsivas y accesibles utilizando **React** y **JavaScript (ES6+)**.
+- Integración de funcionalidades a través de **APIs REST** trabajando de la mano con el equipo Back-end.
+
+### 💻 Programador Full-Stack | *Pv&gm construcciones S.A.S.*
+📅 *Mayo 2023 – Junio 2024*
+- Desarrollo de sistemas de gestión interna y control de gastos con **Python** (Back-end) y **React** (Front-end).
+- Administración de bases de datos relacionales mediante **PostgreSQL**.
+- Automatización de procesos financieros y reportes para optimizar la toma de decisiones.
 
 ---
 
