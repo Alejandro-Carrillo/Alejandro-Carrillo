@@ -140,6 +140,9 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
   <a href="https://www.tiktok.com/@soyalejandrocarrillo" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
+  <a href="https://t.me/Soyalejocarrillo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
 
 ---
