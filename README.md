@@ -15,7 +15,7 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 
 - 🔭 Actualmente trabajando en proyectos personales con **React**
 - 🌱 Aprendiendo cada día más sobre **JavaScript avanzado** y **buenas prácticas**
-- 💼 **Disponible para trabajar** — ¡Contáctame!
+- 💼 **Disponible para trabajar** — <a href="mailto:a.carrillodev@gmail.com"><img src="https://img.shields.io/badge/Contáctame-D14836?style=flat&logo=gmail&logoColor=white" alt="Contáctame"/></a>
 - 📍 Colombia 🇨🇴
 
 ---
@@ -149,6 +149,7 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 
 <div align="center">
   <sub>💼 <b>Abierto a oportunidades laborales</b> — No dudes en contactarme 👆</sub>
+  <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Alejandro-Carrillo&color=58A6FF&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 </div>
