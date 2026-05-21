@@ -139,6 +139,9 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 ## 🌐 Encuéntrame en
 
 <p align="left">
+  <a href="https://alejandro-carrillo.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Link_Bio-6366F1?style=for-the-badge&logoColor=white" alt="Link Bio"/>
+  </a>
   <a href="https://www.linkedin.com/in/soyalejocarrillo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
