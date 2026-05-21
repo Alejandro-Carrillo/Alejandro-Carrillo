@@ -15,8 +15,19 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 
 - 🔭 Actualmente trabajando en proyectos personales con **React**
 - 🌱 Aprendiendo cada día más sobre **JavaScript avanzado** y **buenas prácticas**
-- 💼 **Disponible para trabajar** — <a href="https://t.me/Soyalejocarrillo" target="_blank"><img src="https://img.shields.io/badge/Contáctame-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Contáctame"/></a>
+- 💼 **Disponible para trabajar**
 - 📍 Colombia 🇨🇴
+
+<div align="center">
+  <br/>
+  <a href="https://t.me/Soyalejocarrillo" target="_blank">
+    <img src="https://img.shields.io/badge/Contáctame_por_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:a.carrillodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Envíame_un_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
