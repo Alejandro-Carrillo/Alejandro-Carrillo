@@ -100,6 +100,14 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alejandro-Carrillo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)
+
+</div>
+
 ---
 
 ## 🌐 Encuéntrame en
