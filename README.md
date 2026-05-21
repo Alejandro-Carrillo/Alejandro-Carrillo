@@ -3,7 +3,7 @@
 ![Banner](Banner.png)
 
 <!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋🏼+Hola%2C+soy+Alejandro+Carrillo;Desarrollador+Frontend;Apasionado+por+React+%26+JavaScript;Siempre+aprendiendo+algo+nuevo+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋🏼+Hola%2C+soy+Alejandro+Carrillo;Desarrollador+de+Software;Apasionado+por+React+%26+JavaScript;Siempre+aprendiendo+algo+nuevo+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🧑🏻‍💻 Sobre mí
 
-Soy **Desarrollador Frontend** con formación en Programación de Software (SENA). Me apasiona crear interfaces web modernas, funcionales y con buena experiencia de usuario. Estoy en búsqueda activa de oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
+Soy **Desarrollador de Software** con formación en Programación de Software (SENA). Me apasiona crear interfaces web modernas, funcionales y con buena experiencia de usuario. Estoy en búsqueda activa de oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
 
 - 🔭 Actualmente trabajando en proyectos personales con **React**
 - 🌱 Aprendiendo cada día más sobre **JavaScript avanzado** y **buenas prácticas**
@@ -26,36 +26,48 @@ Soy **Desarrollador Frontend** con formación en Programación de Software (SENA
   <tr>
     <td align="center" width="33%">
       <a href="https://alejandro-carrillo.github.io/todo-list-localstorage/" target="_blank">
-        <img src="https://img.shields.io/badge/▶_Ver_Demo-58A6FF?style=for-the-badge" alt="Demo"/>
+        <img src="assets/todo-list.png" alt="Todo List App" width="100%" style="border-radius:8px"/>
       </a>
       <br/><br/>
       <b>✅ Todo List App</b>
       <br/>
       <sub>Gestor de tareas con persistencia de datos usando <strong>LocalStorage</strong>. Construido con React.</sub>
       <br/><br/>
+      <a href="https://alejandro-carrillo.github.io/todo-list-localstorage/" target="_blank">
+        <img src="https://img.shields.io/badge/▶_Ver_Demo-58A6FF?style=for-the-badge" alt="Demo"/>
+      </a>
+      <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/LocalStorage-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
     </td>
     <td align="center" width="33%">
       <a href="https://alejandro-carrillo.github.io/quizapp/" target="_blank">
-        <img src="https://img.shields.io/badge/▶_Ver_Demo-58A6FF?style=for-the-badge" alt="Demo"/>
+        <img src="assets/quiz-app.png" alt="Quiz App" width="100%" style="border-radius:8px"/>
       </a>
       <br/><br/>
       <b>🧠 Quiz App</b>
       <br/>
       <sub>Aplicación interactiva de preguntas y respuestas. Construida con <strong>React + Vite</strong>.</sub>
       <br/><br/>
+      <a href="https://alejandro-carrillo.github.io/quizapp/" target="_blank">
+        <img src="https://img.shields.io/badge/▶_Ver_Demo-58A6FF?style=for-the-badge" alt="Demo"/>
+      </a>
+      <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
     </td>
     <td align="center" width="33%">
       <a href="https://alejandro-carrillo.github.io/Paises-e-idiomas/" target="_blank">
-        <img src="https://img.shields.io/badge/▶_Ver_Demo-58A6FF?style=for-the-badge" alt="Demo"/>
+        <img src="assets/paises-idiomas.png" alt="Países e Idiomas" width="100%" style="border-radius:8px"/>
       </a>
       <br/><br/>
       <b>🌍 Países e Idiomas</b>
       <br/>
       <sub>App interactiva para explorar países y sus idiomas. Desarrollada con <strong>HTML, CSS y JS</strong> puro.</sub>
+      <br/><br/>
+      <a href="https://alejandro-carrillo.github.io/Paises-e-idiomas/" target="_blank">
+        <img src="https://img.shields.io/badge/▶_Ver_Demo-58A6FF?style=for-the-badge" alt="Demo"/>
+      </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -87,18 +99,6 @@ Soy **Desarrollador Frontend** con formación en Programación de Software (SENA
 </p>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Carrillo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Carrillo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alejandro-Carrillo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)
-
-</div>
 
 ---
 
