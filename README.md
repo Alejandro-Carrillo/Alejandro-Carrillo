@@ -11,10 +11,10 @@
 
 ## 🧑🏻‍💻 Sobre mí
 
-Soy **Desarrollador de Software** con formación en Programación de Software (SENA). Me apasiona crear interfaces web modernas, funcionales y con buena experiencia de usuario. Estoy en búsqueda activa de oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
+Soy **Desarrollador** con formación en Programación de Software (SENA). Me apasiona crear interfaces web modernas, funcionales y con buena experiencia de usuario. Estoy en búsqueda activa de oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
 
-- 🔭 Actualmente trabajando en proyectos personales con **React**
-- 🌱 Aprendiendo cada día más sobre **JavaScript avanzado** y **buenas prácticas**
+- 🔭 Actualmente trabajando en proyectos personales
+- 🌱 Aprendiendo cada día más sobre **JavaScript** y **buenas prácticas**
 - 💼 **Disponible para trabajar**
 - 📍 Colombia 🇨🇴
 
@@ -162,7 +162,7 @@ Soy **Desarrollador de Software** con formación en Programación de Software (S
 ---
 
 <div align="center">
-  <sub>💼 <b>Abierto a oportunidades laborales</b> — No dudes en contactarme 👆</sub>
+  <sub>💼 <b>**Abierto a oportunidades laborales**</b> — No dudes en contactarme 👆</sub>
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Alejandro-Carrillo&color=58A6FF&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
