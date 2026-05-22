@@ -11,7 +11,7 @@
 
 ## 🧑🏻‍💻 Sobre mí
 
-Soy **Desarrollador** con formación en Programación de Software (SENA). Me apasiona crear interfaces web modernas, funcionales y con buena experiencia de usuario. Estoy en búsqueda activa de oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
+Soy **Desarrollador web** con formación en Programación de Software (SENA). Me apasiona crear interfaces web modernas, funcionales y con buena experiencia de usuario. Estoy en búsqueda activa de oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
 
 - 🔭 Actualmente trabajando en proyectos personales
 - 🌱 Aprendiendo cada día más sobre **JavaScript** y **buenas prácticas**
