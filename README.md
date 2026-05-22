@@ -162,7 +162,7 @@ Soy **Desarrollador web** con formación en Programación de Software (SENA). Me
 ---
 
 <div align="center">
-  <sub>💼 <b> **Abierto a oportunidades laborales** </b> — No dudes en contactarme 👆</sub>
+  <sub>💼 <b>Abierto a oportunidades laborales</b> — No dudes en contactarme 👆</sub>
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Alejandro-Carrillo&color=58A6FF&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
